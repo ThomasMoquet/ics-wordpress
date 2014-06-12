@@ -1,0 +1,23 @@
+form li label {
+	width: 100px;
+	display: inline-block;
+}
+
+form li input{
+	width:200px;
+	font-size:12px;
+}
+
+form ul{
+	list-style-type:none;
+}
+
+#cancel{
+	float:right;
+}
+
+.datepicker{
+	position: fixed !important;
+	top: 170px !important;
+	left: 65px !important;
+}
