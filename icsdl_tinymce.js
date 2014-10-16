@@ -8,7 +8,7 @@
                     height : 370,
                     inline : 1
                 }, {
-                    plugin_url : url,
+                    plugin_url : url
                 });
             });
             ed.addButton('icsdllink', {
@@ -28,7 +28,7 @@
                 longname : 'ICS Button Plugin',
                 author : 'Thomas Moquet',
                 infourl : 'https://github.com/ThomasMoquet/ics-wordpress',
-                version : "1"
+                version : "2"
             };
         }
     });
